@@ -1,0 +1,2 @@
+* ClassPathBeanDefinitionScanner.doScan()
+* DefaultListableBeanFactory.registerBeanDefinition()
